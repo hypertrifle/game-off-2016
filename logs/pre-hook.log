@@ -1,0 +1,26 @@
+Hello Pre Hook
+
+flow / hook exception:
+
+TypeError: Cannot read property 'toUTCString' of undefined
+    at Object.exports.hook (/Users/rich/Development/Luxe/boilerplate/hooks/pre-hook.js:18:23)
+flow / hooks command error
+Hello Pre Hook
+
+Mon, 09 May 2016 15:06:47 GMT
+Hello Pre Hook
+
+Hello Pre Hook
+
+Hello Pre Hook
+
+15
+29
+29
+15
+Mon, 09 May 2016 15:12:52 GMT
+Hello Pre Hook
+
+Mon, 09 May 2016 15:13:42 GMT
+Hello Pre Hook
+

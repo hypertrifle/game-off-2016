@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="256" tileheight="256" nextobjectid="1">
+ <tileset firstgid="1" name="roadtiles" tilewidth="256" tileheight="256" tilecount="12">
+  <image source="../img/roadtiles.png" trans="ff00ff" width="1024" height="768"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztVUEOgCAMm4CKyP/fa0gwWchAGYyDclhEQUpbmm0AsGXKFOZ6r5m4MmuWQumH+ZY1f9N54n4bd0SOPPFttIYcnXd0XjsQ1xBjCdwD8XOJT/c49dd2wMVcVMTG5wjPU8DvnM7B5/WFF6WqyYiPPDXkM5K+u8zetfdZI64czTj/KMJPCVx8n7l5beXLzWsrrgI6NyP87cm3ttdQvYXTr3prJKXzxOXtcQEXBxJo
+  </data>
+ </layer>
+</map>

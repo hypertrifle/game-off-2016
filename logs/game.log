@@ -1,0 +1,222 @@
+flow / found custom config at /Users/rich/.flow.config.json
+flow / 1.0.0-alpha.2 (node.js v0.12.7)
+flow / target is mac ( arch 64 )
+flow / debug = true
+flow / haxe version 3.2.1
+
+flow / build - ____ 1.0.0 for mac
+flow / build - running haxe ...
+flow / build - running hxcpp for arch 64 ...
+flow / build - done
+Called from luxe.Game::main luxe/Game.hx line 18
+Called from Main::new Main.hx line 26
+Called from luxe.Game::new luxe/Game.hx line 26
+Called from luxe.Engine::run luxe/Engine.hx line 94
+Called from snow.Snow::new snow/Snow.hx line 137
+Called from snow.Snow::dispatch_event snow/Snow.hx line 188
+Called from snow.Snow::onevent snow/Snow.hx line 234
+Called from snow.api.Promises::step snow/api/Promise.hx line 430
+Called from snow.api.Promises::next snow/api/Promise.hx line 437
+Called from *::_Function_1_1 snow/api/Promise.hx line 71
+Called from *::_Function_1_1 snow/systems/assets/Asset.hx line 466
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 358
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 361
+Called from snow.api.Promise::onsettle snow/api/Promise.hx line 370
+Called from *::_Function_2_1 snow/api/Promise.hx line 263
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 358
+Called from *::_Function_2_1 snow/Snow.hx line 376
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 361
+Called from snow.api.Promise::onsettle snow/api/Promise.hx line 370
+Called from *::_Function_2_1 snow/api/Promise.hx line 263
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 358
+Called from *::_Function_2_2 snow/Snow.hx line 342
+Error : init(config / failed / default user config JSON failed to parse. Cannot recover. parse(Invalid char 125 at position 159))
+flow / found custom config at /Users/rich/.flow.config.json
+flow / 1.0.0-alpha.2 (node.js v0.12.7)
+flow / target is mac ( arch 64 )
+flow / debug = true
+flow / haxe version 3.2.1
+
+flow / build - ____ 1.0.0 for mac
+flow / build - running haxe ...
+flow / build - running hxcpp for arch 64 ...
+flow / build - done
+Called from luxe.Game::main luxe/Game.hx line 18
+Called from Main::new Main.hx line 26
+Called from luxe.Game::new luxe/Game.hx line 26
+Called from luxe.Engine::run luxe/Engine.hx line 94
+Called from snow.Snow::new snow/Snow.hx line 137
+Called from snow.Snow::dispatch_event snow/Snow.hx line 188
+Called from snow.Snow::onevent snow/Snow.hx line 234
+Called from snow.api.Promises::step snow/api/Promise.hx line 430
+Called from snow.api.Promises::next snow/api/Promise.hx line 437
+Called from *::_Function_1_1 snow/api/Promise.hx line 71
+Called from *::_Function_1_1 snow/systems/assets/Asset.hx line 466
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 358
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 361
+Called from snow.api.Promise::onsettle snow/api/Promise.hx line 370
+Called from *::_Function_2_1 snow/api/Promise.hx line 263
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 358
+Called from *::_Function_2_1 snow/Snow.hx line 376
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 361
+Called from snow.api.Promise::onsettle snow/api/Promise.hx line 370
+Called from *::_Function_2_1 snow/api/Promise.hx line 263
+Called from snow.api.Promise::onreject snow/api/Promise.hx line 358
+Called from *::_Function_2_2 snow/Snow.hx line 342
+Error : init(config / failed / default user config JSON failed to parse. Cannot recover. parse(Invalid char 125 at position 159))
+flow / found custom config at /Users/rich/.flow.config.json
+flow / 1.0.0-alpha.2 (node.js v0.12.7)
+flow / target is mac ( arch 64 )
+flow / debug = true
+flow / haxe version 3.2.1
+
+flow / build - ____ 1.0.0 for mac
+flow / build - running haxe ...
+flow / build - running hxcpp for arch 64 ...
+flow / build - done
+Main.hx:40:      i / main / config loaded as { window => { title => ____, borderless => false, width => 1280, resizable => true, height => 700, fullscreen => false}}
+Engine.hx:139:    i / luxe / log / level to 2
+Engine.hx:140:    i / luxe / log / filter : null
+Engine.hx:141:    i / luxe / log / exclude : null
+Engine.hx:148:    i / luxe / 1.0.0-alpha.3+497bb08f9b / debug:true / os:mac / platform:mac
+Engine.hx:221:    d / luxe / creating subsystems...
+Renderer.hx:94:  d / renderer / default Framebuffer set to GLFramebuffer(0)
+Renderer.hx:95:  d / renderer / default Renderbuffer set to GLRenderbuffer(0)
+Debug.hx:117:     d / debug / 	 debug initialized.
+Timer.hx:21:     d / timer / 	 timer initialized.
+Audio.hx:119:     d / audio / 	 audio initialized.
+Input.hx:183:     d / input / 	 input initialized.
+Renderer.hx:306:  d / renderer / creating default shaders...
+Renderer.hx:366:  d / renderer / done.
+Renderer.hx:374:  d / renderer / creating the default font...
+Renderer.hx:394:  d / renderer / done. 275x512
+Scene.hx:107:     d / scene / default scene / adding default camera with id : tAbzo
+Engine.hx:292:    i / luxe / opengl  / 2.1 INTEL-10.0.51 / 1.20 / Intel HD Graphics 3000 OpenGL Engine / Intel Inc. / 
+Engine.hx:294:    d / luxe / ready. loading default parcel { sounds => [], fonts => [], textures => [], shaders => [], texts => [], bytes => [], jsons => []}
+Parcel.hx:160:    d / parcel / default_parcel / default_parcel / loading 0 items
+Parcel.hx:161:    d / parcel /    bytes: 0
+Parcel.hx:162:    d / parcel /    texts: 0
+Parcel.hx:163:    d / parcel /    jsons: 0
+Parcel.hx:164:    d / parcel /    textures: 0
+Parcel.hx:165:    d / parcel /    fonts: 0
+Parcel.hx:166:    d / parcel /    shaders: 0
+Parcel.hx:167:    d / parcel /    sounds: 0
+Parcel.hx:170:    d / parcel / nothing to load for `default_parcel` / `default_parcel`, skip
+Parcel.hx:593:    d / parcel / completed load default_parcel in 0.000196566004888155
+Main.hx:56:      d / main / ---------- Main.ready ----------
+Main.hx:61:      i / main / Main w: 1280
+Main.hx:62:      i / main / Main h: 700
+Scene.hx:107:     d / scene / default scene / adding background_camera with id : 2GnUyt
+Scene.hx:107:     d / scene / default scene / adding foreground_camera with id : p0uoY
+States.hx:186:    d / states / statemachine / adding a state called game_state, now at 1 states
+Entity.hx:286:    d / entity / calling init on background_camera
+Entity.hx:286:    d / entity / calling init on default camera
+Entity.hx:286:    d / entity / calling init on foreground_camera
+Entity.hx:318:    d / entity / calling reset on default camera
+Entity.hx:318:    d / entity / calling reset on background_camera
+Entity.hx:318:    d / entity / calling reset on foreground_camera
+States.hx:328:    d / states / found state named game_state, calling enter
+Scene.hx:107:     d / scene / default scene / adding road with id : bIn7b
+Scene.hx:118:     d / scene / adding a delayed entity to init list road
+Scene.hx:123:     d / scene / adding a delayed entity to reset list road
+Components.hx:44: d / components /     entity road added component name, now at 1 components
+Components.hx:45: d / components /     entity road added component, calling added() on name
+States.hx:333:    d / states / called enter on game_state, now at 1 active_states
+Scene.hx:526:     d / scene / delayed entities in scene will init/reset now! 1 / 1
+Scene.hx:533:     d / scene / 	 handling late entity init road
+Entity.hx:286:    d / entity / calling init on road
+Component.hx:8: component init
+Scene.hx:546:     d / scene / 	 handling late entity reset road
+Entity.hx:318:    d / entity / calling reset on road
+Engine.hx:185:    i / luxe / shutting down...
+Scene.hx:403:     d / scene / destroy / `default scene` with 4 entities / JiLWv
+Entity.hx:353:    d / entity / destroy default camera with 0 children and 0 components / tAbzo
+Scene.hx:140:     d / scene / default scene / removing default camera with id : tAbzo
+Entity.hx:353:    d / entity / destroy foreground_camera with 0 children and 0 components / p0uoY
+Scene.hx:140:     d / scene / default scene / removing foreground_camera with id : p0uoY
+Entity.hx:353:    d / entity / destroy road with 0 children and 1 components / bIn7b
+Scene.hx:140:     d / scene / default scene / removing road with id : bIn7b
+Input.hx:189:     d / input / 	 input shut down.
+Audio.hx:125:     d / audio / 	 audio shut down.
+Timer.hx:28:     d / timer / 	 timer shut down.
+Debug.hx:453:     d / debug / 	 debug shut down.
+Engine.hx:215:    i / luxe / goodbye.
+Snow.hx:237:      i / snow / goodbye.
+flow / found custom config at /Users/rich/.flow.config.json
+flow / 1.0.0-alpha.2 (node.js v0.12.7)
+flow / target is mac ( arch 64 )
+flow / debug = true
+flow / haxe version 3.2.1
+
+flow / build - ____ 1.0.0 for mac
+flow / build - running haxe ...
+flow / build - running hxcpp for arch 64 ...
+flow / build - done
+Main.hx:40:      i / main / config loaded as { window => { title => ____, borderless => false, width => 1280, resizable => true, height => 700, fullscreen => false}}
+Engine.hx:139:    i / luxe / log / level to 2
+Engine.hx:140:    i / luxe / log / filter : null
+Engine.hx:141:    i / luxe / log / exclude : null
+Engine.hx:148:    i / luxe / 1.0.0-alpha.3+497bb08f9b / debug:true / os:mac / platform:mac
+Engine.hx:221:    d / luxe / creating subsystems...
+Renderer.hx:94:  d / renderer / default Framebuffer set to GLFramebuffer(0)
+Renderer.hx:95:  d / renderer / default Renderbuffer set to GLRenderbuffer(0)
+Debug.hx:117:     d / debug / 	 debug initialized.
+Timer.hx:21:     d / timer / 	 timer initialized.
+Audio.hx:119:     d / audio / 	 audio initialized.
+Input.hx:183:     d / input / 	 input initialized.
+Renderer.hx:306:  d / renderer / creating default shaders...
+Renderer.hx:366:  d / renderer / done.
+Renderer.hx:374:  d / renderer / creating the default font...
+Renderer.hx:394:  d / renderer / done. 275x512
+Scene.hx:107:     d / scene / default scene / adding default camera with id : QuIar
+Engine.hx:292:    i / luxe / opengl  / 2.1 INTEL-10.0.51 / 1.20 / Intel HD Graphics 3000 OpenGL Engine / Intel Inc. / 
+Engine.hx:294:    d / luxe / ready. loading default parcel { sounds => [], fonts => [], textures => [], shaders => [], texts => [], bytes => [], jsons => []}
+Parcel.hx:160:    d / parcel / default_parcel / default_parcel / loading 0 items
+Parcel.hx:161:    d / parcel /    bytes: 0
+Parcel.hx:162:    d / parcel /    texts: 0
+Parcel.hx:163:    d / parcel /    jsons: 0
+Parcel.hx:164:    d / parcel /    textures: 0
+Parcel.hx:165:    d / parcel /    fonts: 0
+Parcel.hx:166:    d / parcel /    shaders: 0
+Parcel.hx:167:    d / parcel /    sounds: 0
+Parcel.hx:170:    d / parcel / nothing to load for `default_parcel` / `default_parcel`, skip
+Parcel.hx:593:    d / parcel / completed load default_parcel in 0.000257501989835873
+Main.hx:56:      d / main / ---------- Main.ready ----------
+Main.hx:61:      i / main / Main w: 1280
+Main.hx:62:      i / main / Main h: 700
+Scene.hx:107:     d / scene / default scene / adding background_camera with id : 1svTmU
+Scene.hx:107:     d / scene / default scene / adding foreground_camera with id : lKhfu
+States.hx:186:    d / states / statemachine / adding a state called game_state, now at 1 states
+Entity.hx:286:    d / entity / calling init on background_camera
+Entity.hx:286:    d / entity / calling init on default camera
+Entity.hx:286:    d / entity / calling init on foreground_camera
+Entity.hx:318:    d / entity / calling reset on default camera
+Entity.hx:318:    d / entity / calling reset on background_camera
+Entity.hx:318:    d / entity / calling reset on foreground_camera
+States.hx:328:    d / states / found state named game_state, calling enter
+Scene.hx:107:     d / scene / default scene / adding road with id : 7T9ML
+Scene.hx:118:     d / scene / adding a delayed entity to init list road
+Scene.hx:123:     d / scene / adding a delayed entity to reset list road
+Components.hx:44: d / components /     entity road added component name, now at 1 components
+Components.hx:45: d / components /     entity road added component, calling added() on name
+States.hx:333:    d / states / called enter on game_state, now at 1 active_states
+Scene.hx:526:     d / scene / delayed entities in scene will init/reset now! 1 / 1
+Scene.hx:533:     d / scene / 	 handling late entity init road
+Entity.hx:286:    d / entity / calling init on road
+Component.hx:8: component init
+Scene.hx:546:     d / scene / 	 handling late entity reset road
+Entity.hx:318:    d / entity / calling reset on road
+Engine.hx:185:    i / luxe / shutting down...
+Scene.hx:403:     d / scene / destroy / `default scene` with 4 entities / HeAYs
+Entity.hx:353:    d / entity / destroy default camera with 0 children and 0 components / QuIar
+Scene.hx:140:     d / scene / default scene / removing default camera with id : QuIar
+Entity.hx:353:    d / entity / destroy foreground_camera with 0 children and 0 components / lKhfu
+Scene.hx:140:     d / scene / default scene / removing foreground_camera with id : lKhfu
+Entity.hx:353:    d / entity / destroy road with 0 children and 1 components / 7T9ML
+Scene.hx:140:     d / scene / default scene / removing road with id : 7T9ML
+Input.hx:189:     d / input / 	 input shut down.
+Audio.hx:125:     d / audio / 	 audio shut down.
+Timer.hx:28:     d / timer / 	 timer shut down.
+Debug.hx:453:     d / debug / 	 debug shut down.
+Engine.hx:215:    i / luxe / goodbye.
+Snow.hx:237:      i / snow / goodbye.

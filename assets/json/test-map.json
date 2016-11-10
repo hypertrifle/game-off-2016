@@ -1,0 +1,45 @@
+{ "height":30,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJxjY2BgYMOBWfDIUVvNqL20UcOIBzMTkKdEzUgL51F7h7e99MhHPFjE6B2G5IQzO5J7OehoLwsWNi3s5cQTTzA2evxyUMFecuKXGv6npb2k5hEuPGGPjY+untx8RIuyZ7DYi5yeyc2vlPqX3PxKqb1MUH9zD\/H4JTUfYatbyKmvqB1GtArnUXvJMwMAr2gSVg==",
+         "encoding":"base64",
+         "height":30,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":30,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":256,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"..\/img\/roadtiles.png",
+         "imageheight":768,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"roadtiles",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":256,
+         "tilewidth":256,
+         "transparentcolor":"#ff00ff"
+        }],
+ "tilewidth":256,
+ "version":1,
+ "width":30
+}
